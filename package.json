@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist" 
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.4",
@@ -33,5 +33,5 @@
     "globals": "^16.0.0",
     "vite": "^6.3.1"
   },
-  "homepage": "https://[Aditya10-08].github.io/[Portfolio-with-react]"
+  "homepage": "https://[Aditya10-08].github.io/[React-Portfolio]"
 }
